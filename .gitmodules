@@ -1,0 +1,12 @@
+[submodule "Modules/item-details"]
+	path = Modules/item-details
+	url = https://github.com/hrr45-fec8-legolas/item-details.git
+[submodule "Modules/related-products"]
+	path = Modules/related-products
+	url = https://github.com/hrr45-fec8-legolas/related-products.git
+[submodule "Modules/reviews"]
+	path = Modules/reviews
+	url = https://github.com/hrr45-fec8-legolas/reviews.git
+[submodule "Modules/single-item-page"]
+	path = Modules/single-item-page
+	url = https://github.com/hrr45-fec8-legolas/single-item-page.git
