@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hrr45-fec8-legolas/item-details-proxy#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "http-proxy-middleware": "^1.0.3"
   }
 }
